@@ -84,14 +84,14 @@ Como criar um projeto de machine Learning:
 
 Objetivo: Saber relacionar acuracity de um modelo à perfomace de negócio, ou seja, o quanto um modelo de 90% de acuracity pode trazer em benefícios financeiros (o que o mercado entende e espera).
 
-### Projeto de Data Engineering:
+### Projeto de Machine Learning:
 
 Abaixo link de um projeto de Machine Learning desenvolvido por (Daniel Amorim), autor deste post:
 https://github.com/dev-daniel-amorim/Analise_e_aprendizado_de_maquina
 
 🚧 PROJETO COMPLETO PORÉM EM FASE DE MELHORIAS.
 
-# Projetos End-to-End:
+## Projetos End-to-End:
 Consiste em produzir a parte visual onde as pessoas possam consulltar facilmente seu modelo no dia a dia, para isso podemos usar tecnologias como Django, Flask entre outros.
 
 Abaixo um vídeo de um projeto End-to-end, desenvolvido por mim onde o usuário final pode entrar com os dados desejados (no caso features de um imóvel) e obter a cotação do mesmo com base nas características passadas:
