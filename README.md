@@ -1,5 +1,5 @@
 # Data Science
- Material didático sobre o que é Data Science, etapas e projetos!
+ Material didático sobre o que é Data Science, etapas e como construir um projeto!
  
 # O que é Data Science?
 Data science/Ciência de dados é a área da computação que estuda dados e informações
