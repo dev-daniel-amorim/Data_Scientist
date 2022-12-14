@@ -66,6 +66,8 @@ Como criar um projeto de data engineering:
 ## Machine Learning:
 Envolte toda etapa de insights e data engineering, mas desta vez envolvendo aprendizado de máquina (IA) se utilizando de meios matemáticos e estatísticos que se concentram no uso de dados e algoritimos para "imitar" a maneira como os humanos aprendem, melhorando gradualmente sua precisão.
 
+![Captura de tela_20221214_175437](https://user-images.githubusercontent.com/115194365/207711987-c0926256-7100-49f6-9e41-0716582d8488.png)
+
 ### Inicialmente temos que entender que o computador aprende de 3 formas:
 
 - 1º aprendizado supervisionado: Quando passamos dados rotulados (um gabarito) onde temos as perguntas já com as respostas. Ex capcha de login. Esse modelo exige uma grande ***diversidade de informações. (principais métodos supervisionados: árvore de decisão, Naive bayes, regressão linear)
