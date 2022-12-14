@@ -43,7 +43,10 @@ Como criar um projeto de insights:
 - Levantar hipótese sobre comportamento do negócio;
 - Fazer uma análise exploratórias de dados para validar ou descartar as hipóteses.
 
+### Projeto de Insight:
+Abaixo o link de um projeto de insight desenvolvido por Daniel Amorim:
 
+https://github.com/dev-daniel-amorim/Analise_de_dados
 
 
 
