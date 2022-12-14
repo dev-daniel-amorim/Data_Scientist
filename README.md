@@ -3,8 +3,7 @@
  
 # O que é Data Science?
 Data science/Ciência de dados é a área da computação que estuda dados e informações
-de "negócio" em diversas áreas e setores de empresas ou organizações, o proficional pode ser nomeado 
-como data scientist/cientista de dados.<br>
+de "negócio" em diversas áreas e setores de empresas ou organizações. O profissional é o data scientist/cientista de dados.<br>
 Cabe ao data scientist saber lidar com esses dados desde o processo de captura, transformação, geração 
 e por fim, a análise. <br>
 Ciência de dados engloba algumas disciplinas como:
