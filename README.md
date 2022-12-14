@@ -31,7 +31,8 @@ Ciência de dados engloba algumas disciplinas como:
 
 Dividindo data science em etapas  temos:
 
-### Insights: Etapas até modelagem de dados.
+## Insights 
+Etapas até modelagem de dados.<br>
 
 ![Captura de tela_20221214_161156](https://user-images.githubusercontent.com/115194365/207691947-8005aacb-206d-4c74-a8ef-47be847f430b.png)
 
@@ -41,12 +42,64 @@ Como criar um projeto de insights:
 - Coletar dados (Para estudo vc pode usar Reddit, Kaggle, Google Datasets);
 - Tratar os dados;
 - Levantar hipótese sobre comportamento do negócio;
-- Fazer uma análise exploratórias de dados para validar ou descartar as hipóteses.
+- Fazer uma análise exploratórias de dados para validar ou descartar as hipóteses;
+- Descrever os insigths e sua proposta para solução do problema.
 
 ### Projeto de Insight:
-Abaixo o link de um projeto de insight desenvolvido por Daniel Amorim:
 
-https://github.com/dev-daniel-amorim/Analise_de_dados
+🚧 EM BREVE DISPONIBILIZAREI AQUI PROJETOS DE INSIGHTS
+
+
+## Data Engineering: 
+Apesar de ser uma área diferente de data science é interessante o cientista de dados entender um pouco de pipeline de dados, coleta de dados de diversas fontes, requisições em API´s, query em banco de dados, unir as informações, armazenar e preparar todo dataset a ser analizado (lembrando que esta é uma função do data engineering).<br>
+
+Como criar um projeto de data engineering:
+- WebScraping, coletar dados de fontes externas na web;
+- Salvar dados em um banco de dados local;
+- Atualizar dados com frequencia, pipelines que atualizam todos os dias;
+- Limpar dados;
+- Explorar os dados.
+
+### Projeto de Data Engineering:
+
+🚧 EM BREVE DISPONIBILIZAREI AQUI PROJETOS DE DATA ENGINEERING
+
+## Machine Learning:
+Envolte toda etapa de insights e data engineering, mas desta vez envolvendo aprendizado de máquina (IA) se utilizando de meios matemáticos e estatísticos que se concentram no uso de dados e algoritimos para "imitar" a maneira como os humanos aprendem, melhorando gradualmente sua precisão.
+
+### Inicialmente temos que entender que o computador aprende de 3 formas:
+
+- 1º aprendizado supervisionado: Quando passamos dados rotulados (um gabarito) onde temos as perguntas já com as respostas. Ex capcha de login. Esse modelo exige uma grande ***diversidade de informações. (principais métodos supervisionados: árvore de decisão, Naive bayes, regressão linear)
+    
+- 2º aprendizado não supervisionado: Passamos uma base sem respostas, por observação da máquina, por exemplo: Mulher compra mais maquiagem, homem compra mais ferramentas, um site vai oferecer o que mais aquele "grupo" de usúarios procura. O computador separa em grupos por características, por exemplo: ifood, algumas pessoas compram mais ou por cupom ou oferecendo frete grátis outras nem compram.
+    
+- 3º aprendizado por reforço: Vamos ensinando ao computador por meio de reforço positivo ou negativo, exemplo, recomendação de vídeo do youtube, o youtube mostra vídeos, se eu não assistir é pq não gosta, se assistir é pq eu gosta, assim o youtube vai aprendendo por reforço o que o usuário mais gosta.
+
+Como criar um projeto de machine Learning:
+- Obter os insights da empresa em questão;
+- Escolher os modelos de aprendizado a serem usados;
+- Aplicar aos insights algoritimos de machine learning;
+- Avaliar o desempenho dos modelos usando as métricas corretas.
+
+Objetivo: Saber relacionar acuracity de um modelo à perfomace de negócio, ou seja, o quanto um modelo de 90% de acuracity pode trazer em benefícios financeiros (o que o mercado entende e espera).
+
+### Projeto de Data Engineering:
+
+Abaixo link de um projeto de Machine Learning desenvolvido por (Daniel Amorim), autor deste post:
+https://github.com/dev-daniel-amorim/Analise_e_aprendizado_de_maquina
+
+🚧 PROJETO COMPLETO PORÉM EM FASE DE MELHORIAS.
+
+# Projetos End-to-End:
+Consiste em produzir a parte visual onde as pessoas possam consulltar facilmente seu modelo no dia a dia, para isso podemos usar tecnologias como Django, Flask entre outros.
+
+Abaixo um vídeo de um projeto End-to-end, desenvolvido por mim onde o usuário final pode entrar com os dados desejados (no caso features de um imóvel) e obter a cotação do mesmo com base nas características passadas:
+
+https://user-images.githubusercontent.com/115194365/207130687-a92a628e-03ae-4b91-add5-50a664a38565.mp4
+
+
+
+
 
 
 
