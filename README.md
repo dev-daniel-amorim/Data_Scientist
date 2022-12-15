@@ -93,7 +93,7 @@ Objetivo: Saber relacionar acuracity de um modelo à perfomace de negócio, ou s
 
 ### Projeto de Machine Learning:
 
-Abaixo link de um projeto de Machine Learning desenvolvido por (Daniel Amorim), autor deste post:
+Abaixo link de um projeto de Machine Learning desenvolvido por (Daniel Amorim), autor deste post:<br>
 <a href="https://github.com/dev-daniel-amorim/Analise_e_aprendizado_de_maquina"> - Projeto machine learning (Daniel Amorim) </a>
 
 🚧 PROJETO COMPLETO PORÉM EM FASE DE MELHORIAS.
