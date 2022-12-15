@@ -26,6 +26,13 @@ Ciência de dados engloba algumas disciplinas como:
 - <b>Avaliação do algoritmo:</b> Avaliar a acuracity dos algoritmos, observar sua performace e observar se realmente houve o aprendizado.<br>
 - <b>Modelo em produção:</b> Disponibilizar o modelo para que as pessoas possam usa-lo em seu dia a dia.
 
+# Ferramentas de data science
+
+Uma das principais ferramentas para se trabalhar com análise de dados em Python é o Pandas, abaixo segue 
+o link de um material sobre a biblioteca Pandas que preparei pra vocês:
+
+<a href="https://github.com/dev-daniel-amorim/Analise_de_dados"> - Material Pandas</a>
+
 # Vertentes do Data Science
 
 Dividindo data science em etapas  temos:
@@ -87,7 +94,7 @@ Objetivo: Saber relacionar acuracity de um modelo à perfomace de negócio, ou s
 ### Projeto de Machine Learning:
 
 Abaixo link de um projeto de Machine Learning desenvolvido por (Daniel Amorim), autor deste post:
-https://github.com/dev-daniel-amorim/Analise_e_aprendizado_de_maquina
+<a href="https://github.com/dev-daniel-amorim/Analise_e_aprendizado_de_maquina"> - Projeto machine learning (Daniel Amorim) </a>
 
 🚧 PROJETO COMPLETO PORÉM EM FASE DE MELHORIAS.
 
