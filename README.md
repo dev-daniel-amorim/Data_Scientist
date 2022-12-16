@@ -39,7 +39,7 @@ Uma ferramenta muito interessante para apresentação de resutados de um projeto
 - Mas o que é Power BI?<br>
 
 É uma ferramenta (software) conector, que trabalha junto com os dados transformando-os em informações coerentes, visualmente envolventes, possibilitando a gestão de indicadores de forma prática. O Power BI se conecta com inúmeras fontes de dados como: planilhas de Excel, páginas da web e diversos bancos de dados.<br>
-Há meios de conectar os prijetos Python com a ferramenta Power Bi, tornando mais prático a importação dos dados, porém ainda encontra-se em fase de desenvolvimento até a data deste post por este motivo ainda não é o mais indicado por apresentar muita lentidão na migração dos dados.
+Há meios de conectar os projetos Python com a ferramenta Power Bi, tornando mais prático a importação dos dados, porém ainda encontra-se em fase de desenvolvimento até a data deste post por este motivo ainda não é o mais indicado por apresentar muita lentidão na migração dos dados.<br>
 
 # Vertentes do Data Science
 
