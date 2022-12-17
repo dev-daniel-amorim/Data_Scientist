@@ -61,8 +61,7 @@ Como criar um projeto de insights:
 
 ### Projeto de Insight:
 
-🚧 EM BREVE DISPONIBILIZAREI AQUI PROJETOS DE INSIGHTS
-
+<a href="https://github.com/dev-daniel-amorim/DS-Projeto-Insights-01"> - Projeto Insights 01 (Daniel Amorim) </a>
 
 ## Data Engineering: 
 Apesar de ser uma área diferente de data science é interessante o cientista de dados entender um pouco de pipeline de dados, coleta de dados de diversas fontes, requisições em API´s, query em banco de dados, unir as informações, armazenar e preparar todo dataset a ser analizado (lembrando que esta é uma função do data engineering).<br>
