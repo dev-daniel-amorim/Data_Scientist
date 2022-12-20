@@ -19,6 +19,10 @@ Ciência de dados engloba algumas disciplinas como:
 - <b>Questão de negócio:</b> Solicitação de solução um problema por parte de uma empresa.<br>
 - <b>Entendimento do negócio:</b> Antes de dar um passo a frente, entenda o négocio para entender o problema. Nessa etapa é muito comum as pessoas trazerem as soluções dos problemas do que o problema em si, um exemplo análogo comum em oficinas, se um carro quebra é comum as pessoas irem até o mecânico com a solução: - "quebrou mas acho que é so um parafuso folgado". Geralmente essas pessoas não são as mais indicadas para te fornecerem uma solução.<br>
 - <b>Coleta dos dados:</b> Consiste mesmo em buscar a fonte de informações disponíveis, seja em planilhas, em banco de dados, em bigdata ou até mesmo fazendo web scraping.<br>
+-- Coleta de dados com WebScraping
+
+
+
 - <b>Limpeza dos dados:</b> Inicia-se o trabalho de análise, manter ou descartar aquele dado (ou dados)? O quão relevante aquele dado é para nossa resolução do problema?<br>
 - <b>Exploração dos dados:</b> Nessa etapa o data scientist absolve mais conhecimento sobre o problema, gera insights pro negócio e consegue definir quais algoritimos de machine learning serão utilizados. Essa é uma das principais etapas e muitas das vezes um projeto de data science é resolvido na etapa de exploração de dados ems a necessidade de passar por machine learning, ML é apenas uma ferramenta de data science.<br>
 - <b>Modelagem dos dados:</b> Consiste na preparação dos dados para a próxima etapa, por exemplo, se temos dados que deveriam ser numéricos e estão como object, devemos converter-los ou os algoritmos de ML não irão compreender esses dados. <br>
