@@ -20,8 +20,8 @@ Ciência de dados engloba algumas disciplinas como:
 - <b>Entendimento do negócio:</b> Antes de dar um passo a frente, entenda o négocio para entender o problema. Nessa etapa é muito comum as pessoas trazerem as soluções dos problemas do que o problema em si, um exemplo análogo comum em oficinas, se um carro quebra é comum as pessoas irem até o mecânico com a solução: - "quebrou mas acho que é so um parafuso folgado". Geralmente essas pessoas não são as mais indicadas para te fornecerem uma solução.<br>
 - <b>Coleta dos dados:</b> Consiste mesmo em buscar a fonte de informações disponíveis, seja em planilhas, em banco de dados, em bigdata, APIs, até mesmo fazendo web scraping. Abaixo tutoriais que preparei exemplificancdo coleta de dados:<br>
 
-    ✔️ <a href="https://github.com/dev-daniel-amorim/Coleta_de_dados-WebScraping"> Coleta de dados com Web Scraping (Tutorial Daniel Amorim)</a>
-    ✔️ <a href="https://github.com/dev-daniel-amorim/Coleta_de_dados-APIs"> Coleta de dados com API (Tutorial Daniel Amorim)</a>
+    ✔️ <a href="https://github.com/dev-daniel-amorim/Coleta_de_dados-WebScraping"> Coleta de dados com Web Scraping (Tutorial Daniel Amorim)</a><br>
+    ✔️ <a href="https://github.com/dev-daniel-amorim/Coleta_de_dados-APIs"> Coleta de dados com API (Tutorial Daniel Amorim)</a><br>
 
 - <b>Limpeza dos dados:</b> Inicia-se o trabalho de análise, manter ou descartar aquele dado (ou dados)? O quão relevante aquele dado é para nossa resolução do problema?<br>
 - <b>Exploração dos dados:</b> Nessa etapa o data scientist absolve mais conhecimento sobre o problema, gera insights pro negócio e consegue definir quais algoritimos de machine learning serão utilizados. Essa é uma das principais etapas e muitas das vezes um projeto de data science é resolvido na etapa de exploração de dados ems a necessidade de passar por machine learning, ML é apenas uma ferramenta de data science.<br>
