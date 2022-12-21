@@ -1,5 +1,16 @@
 # Data Science
- Material didático sobre o que é Data Science, etapas e como construir um projeto!
+ Material didático sobre Data Science, o que é? etapas, processos e como construir um projeto data science!
+ 
+# Índice 
+
+* [O que é Data Science?](#o-que-é-data-science?)
+* [Etapas de um projeto data science](#etapas-de-um-projeto-data-science)
+* [Pandas e Data Science](#pandas-e-data-science)
+
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Desenvolvedor](#desenvolvedor)
+* [Considerações Finais](#considerações-finais)
+* [Tutorial Deploy](#tutorial-deploy)
  
 # O que é Data Science?
 Data science/Ciência de dados é a área da computação que estuda dados e informações
@@ -18,10 +29,10 @@ Ciência de dados engloba algumas disciplinas como:
 
 - <b>Questão de negócio:</b> Solicitação de solução um problema por parte de uma empresa.<br>
 - <b>Entendimento do negócio:</b> Antes de dar um passo a frente, entenda o négocio para entender o problema. Nessa etapa é muito comum as pessoas trazerem as soluções dos problemas do que o problema em si, um exemplo análogo comum em oficinas, se um carro quebra é comum as pessoas irem até o mecânico com a solução: - "quebrou mas acho que é so um parafuso folgado". Geralmente essas pessoas não são as mais indicadas para te fornecerem uma solução.<br>
-- <b>Coleta dos dados:</b> Consiste em buscar a fonte de informações disponíveis, seja em planilhas, em banco de dados, em bigdata, APIs ou até mesmo fazendo web scraping. Abaixo tutoriais que preparei exemplificando a etapa de coleta de dados:<br>
+- <b>Coleta dos dados:</b> Consiste em buscar a fonte de informações disponíveis, seja em planilhas, em banco de dados, em bigdata, APIs ou até mesmo fazendo web scraping. Abaixo tutoriais que preparei exemplificando alguns métodos de coleta de dados:<br>
 
     ✔️ <a href="https://github.com/dev-daniel-amorim/Coleta_de_dados-WebScraping"> Coleta de dados com Web Scraping (Tutorial Daniel Amorim)</a><br>
-    ✔️ <a href="https://github.com/dev-daniel-amorim/Coleta_de_dados-APIs"> Coleta de dados com API (Tutorial Daniel Amorim)</a><br>
+    ✔️ <a href="https://github.com/dev-daniel-amorim/Coleta_de_dados-APIs"> Coleta de dados com APIs (Tutorial Daniel Amorim)</a><br>
 
 - <b>Limpeza dos dados:</b> Inicia-se o trabalho de análise, manter ou descartar aquele dado (ou dados)? O quão relevante aquele dado é para nossa resolução do problema?<br>
 - <b>Exploração dos dados:</b> Nessa etapa o data scientist absolve mais conhecimento sobre o problema, gera insights pro negócio e consegue definir quais algoritimos de machine learning serão utilizados. Essa é uma das principais etapas e muitas das vezes um projeto de data science é resolvido na etapa de exploração de dados ems a necessidade de passar por machine learning, ML é apenas uma ferramenta de data science.<br>
@@ -30,7 +41,7 @@ Ciência de dados engloba algumas disciplinas como:
 - <b>Avaliação do algoritmo:</b> Avaliar a acuracity dos algoritmos, observar sua performace e observar se realmente houve o aprendizado.<br>
 - <b>Modelo em produção:</b> Disponibilizar o modelo para que as pessoas possam usa-lo em seu dia a dia.
 
-# Ferramentas de data science
+# Pandas e Data Science
 
 Uma das principais ferramentas para se trabalhar com análise de dados em Python é o Pandas, abaixo segue 
 o link de um material sobre a biblioteca Pandas que preparei pra vocês:
@@ -116,8 +127,17 @@ Abaixo um vídeo de um projeto End-to-end, desenvolvido por mim onde o usuário 
 
 https://user-images.githubusercontent.com/115194365/207130687-a92a628e-03ae-4b91-add5-50a664a38565.mp4
 
+# Desenvolvedor
 
+| [<img src="https://user-images.githubusercontent.com/115194365/202005566-f6278b6c-4f75-416f-b01c-e79b8d04f02e.jpg" width=115><br><sub>Daniel de Souza Amorim</sub>](https://github.com/DaniellsamorimGit) |
+| :---: | 
 
+#### Mais sobre o autor: <br>
+Graduado em Engenharia de computação;<br>
+Pós-graduado em Petróleo e gás;<br>
+Desenvolvedor de dispositivos embarcados, C++, Python;<br>
+Tecnologias Django, Flask, Selenium, Pandas, MySQL, HTML, Css e Javascript;<br>
+Áreas de interesse: Desenvolvimento BackEnd, Data science.<br>
 
 
 
