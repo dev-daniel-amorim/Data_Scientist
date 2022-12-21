@@ -6,11 +6,13 @@
 * [O que é Data Science?](#o-que-é-data-science?)
 * [Etapas de um projeto data science](#etapas-de-um-projeto-data-science)
 * [Pandas e Data Science](#pandas-e-data-science)
+* [Dica](#dica)
+* [Vertentes do Data Science](#vertentes-do-data-science)
+* [Insights](##insights)
 
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Desenvolvedor](#desenvolvedor)
-* [Considerações Finais](#considerações-finais)
-* [Tutorial Deploy](#tutorial-deploy)
+
+
  
 # O que é Data Science?
 Data science/Ciência de dados é a área da computação que estuda dados e informações
