@@ -8,6 +8,10 @@
 * [Pandas e Data Science](#pandas-e-data-science)
 * [Dica](#dica)
 * [Vertentes do Data Science](#vertentes-do-data-science)
+  * [Insights](#insights)
+  * [Data Engineering](#data-engineering)
+  * [Machine Learning](#machine-learning)
+  * [Projetos End-to-End](#projetos-end-to-end)
 * [Desenvolvedor](#desenvolvedor)
 
 
@@ -92,7 +96,7 @@ Como criar um projeto de data engineering:
 
 🚧 EM BREVE DISPONIBILIZAREI AQUI PROJETOS DE DATA ENGINEERING
 
-## Machine Learning:
+## Machine Learning
 Envolte toda etapa de insights e data engineering, mas desta vez envolvendo aprendizado de máquina (IA) se utilizando de meios matemáticos e estatísticos que se concentram no uso de dados e algoritimos para "imitar" a maneira como os humanos aprendem, melhorando gradualmente sua precisão.
 
 ![Captura de tela_20221214_175437](https://user-images.githubusercontent.com/115194365/207711987-c0926256-7100-49f6-9e41-0716582d8488.png)
@@ -120,7 +124,7 @@ Abaixo link de um projeto de Machine Learning desenvolvido por (Daniel Amorim), 
 
 🚧 PROJETO COMPLETO PORÉM EM FASE DE MELHORIAS.
 
-## Projetos End-to-End:
+## Projetos End-to-End
 Consiste em produzir a parte visual onde as pessoas possam consulltar facilmente seu modelo no dia a dia, para isso podemos usar tecnologias como Django, Flask entre outros.
 
 Abaixo um vídeo de um projeto End-to-end, desenvolvido por mim onde o usuário final pode entrar com os dados desejados (no caso features de um imóvel) e obter a cotação do mesmo com base nas características passadas:
