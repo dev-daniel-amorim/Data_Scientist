@@ -8,8 +8,6 @@
 * [Pandas e Data Science](#pandas-e-data-science)
 * [Dica](#dica)
 * [Vertentes do Data Science](#vertentes-do-data-science)
-* [Insights](##insights)
-
 * [Desenvolvedor](#desenvolvedor)
 
 
