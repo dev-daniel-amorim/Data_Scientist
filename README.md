@@ -51,7 +51,7 @@ Segue abaixo o link de um material que preparei pra vocês, uma espécie de cons
 
 <a href="https://github.com/dev-daniel-amorim/Analise_de_dados"> - Ir para ferramentas de análise de dados</a>
 
-OBS: Este material está em constante atualização, pois vou editando conforme vou aplicando as ferramentas em meus projetos. Sintam-se a vontade para contribuir com essa fonte de estudo!
+OBS: Este material está em constante atualização, pois vou editando conforme vou aplicando as ferramentas em meus projetos. Sintam-se a vontade para contribuir com essa fonte de consulta/estudo!
 
 # Dica
 
