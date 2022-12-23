@@ -47,8 +47,7 @@ Ciência de dados engloba algumas disciplinas como:
 
 # Pandas e Data Science
 
-Uma das principais ferramentas para se trabalhar com análise de dados em Python é o Pandas, abaixo segue 
-o link de um material sobre a biblioteca Pandas que preparei pra vocês:
+Uma das principais ferramentas para se trabalhar com análise de dados em Python é o Pandas, abaixo segue o link de um material de dicas da biblioteca Pandas que preparei pra vocês para consulta rápida:
 
 <a href="https://github.com/dev-daniel-amorim/Analise_de_dados"> - Material Pandas</a>
 
