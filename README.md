@@ -45,11 +45,13 @@ Ciência de dados engloba algumas disciplinas como:
 - <b>Avaliação do algoritmo:</b> Avaliar a acuracity dos algoritmos, observar sua performace e observar se realmente houve o aprendizado.<br>
 - <b>Modelo em produção:</b> Disponibilizar o modelo para que as pessoas possam usa-lo em seu dia a dia.
 
-# Pandas e Data Science
+# Ferramentas de análise de dados
 
-Uma das principais ferramentas para se trabalhar com análise de dados em Python é o Pandas, abaixo segue o link de um material de dicas da biblioteca Pandas que preparei pra vocês para consulta rápida:
+Segue abaixo o link de um material que preparei pra vocês, uma espécie de consulta rápida com as principais ferramentas de análise de dados como Pandas, Pathlib, ferramentas de conversão de dados e etc:
 
-<a href="https://github.com/dev-daniel-amorim/Analise_de_dados"> - Material Pandas</a>
+<a href="https://github.com/dev-daniel-amorim/Analise_de_dados"> - Ir para ferramentas de análise de dados</a>
+
+OBS: Este material está em constante atualização, pois vou editando conforme vou aplicando as ferramentas em meus projetos. Sintam-se a vontade para contribuir com essa fonte de estudo!
 
 # Dica
 
