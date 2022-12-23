@@ -38,7 +38,7 @@ Ciência de dados engloba algumas disciplinas como:
     ✔️ <a href="https://github.com/dev-daniel-amorim/Coleta_de_dados-WebScraping"> Coleta de dados com Web Scraping (Tutorial Daniel Amorim)</a><br>
     ✔️ <a href="https://github.com/dev-daniel-amorim/Coleta_de_dados-APIs"> Coleta de dados com APIs (Tutorial Daniel Amorim)</a><br>
 
-- <b>Limpeza dos dados:</b> Inicia-se o trabalho de análise, manter ou descartar aquele dado (ou dados)? O quão relevante aquele dado é para nossa resolução do problema?<br>
+- <b>Limpeza/tratamento dos dados:</b> Inicia-se o trabalho de análise, manter ou descartar aquele dado (ou dados)? O quão relevante aquele dado é para nossa resolução do problema? Remover, mesclar ou converter dados, são processos que devem ser analisados nesta etapa pois a partir daqui os dados devem está prontos para a manipulação.<br>
 - <b>Exploração dos dados:</b> Nessa etapa o data scientist absolve mais conhecimento sobre o problema, gera insights pro negócio e consegue definir quais algoritimos de machine learning serão utilizados. Essa é uma das principais etapas e muitas das vezes um projeto de data science é resolvido na etapa de exploração de dados ems a necessidade de passar por machine learning, ML é apenas uma ferramenta de data science.<br>
 - <b>Modelagem dos dados:</b> Consiste na preparação dos dados para a próxima etapa, por exemplo, se temos dados que deveriam ser numéricos e estão como object, devemos converter-los ou os algoritmos de ML não irão compreender esses dados. <br>
 - <b>Algoritimos de ML:</b> Submeter sua base de dados já pronta aos algoritimos escolhidos.
